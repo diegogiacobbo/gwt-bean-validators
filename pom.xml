@@ -31,7 +31,7 @@
 		integrate into GWT.
 		Depending sub projects implements widgets spring integration and much more stuff.
 	</description>
-	<url>https://github.com/ManfredTremmel/gwt-bean-validators</url>
+	<url>https://github.com/diegogiacobbo/gwt-bean-validators</url>
 
 	<licenses>
 		<license>
@@ -42,9 +42,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/ManfredTremmel/gwt-bean-validators.git</url>
-		<connection>scm:git:git@github.com/ManfredTremmel/gwt-bean-validators.git</connection>
-		<developerConnection>scm:git:git@github.com/ManfredTremmel/gwt-bean-validators.git</developerConnection>
+		<url>https://github.com/diegogiacobbo/gwt-bean-validators.git</url>
+		<connection>scm:git:git@github.com/diegogiacobbo/gwt-bean-validators.git</connection>
+		<developerConnection>scm:git:git@github.com/diegogiacobbo/gwt-bean-validators.git</developerConnection>
 	</scm>
 
 	<repositories>
@@ -81,7 +81,7 @@
 	<developers>
 		<developer>
 			<name>Manfred Tremmel</name>
-			<id>ManfredTremmel</id>
+			<id>diegogiacobbo</id>
 			<email>Manfred.Tremmel@iiv.de</email>
 			<roles>
 				<role>Java Developer</role>

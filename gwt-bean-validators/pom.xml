@@ -28,7 +28,7 @@
 		improvements in the validation handling in GWT, in displaying validation errors and in
 		input handling.
 	</description>
-	<url>https://github.com/ManfredTremmel/gwt-bean-validators/gwt-bean-validators</url>
+	<url>https://github.com/diegogiacobbo/gwt-bean-validators/gwt-bean-validators</url>
 
 	<licenses>
 		<license>
@@ -39,9 +39,9 @@
 	</licenses>
 
 	<scm>
-		<url>https://github.com/ManfredTremmel/gwt-bean-validators/gwt-bean-validators.git</url>
-		<connection>scm:git:git@github.com/ManfredTremmel/gwt-bean-validators/gwt-bean-validators.git</connection>
-		<developerConnection>scm:git:git@github.com/ManfredTremmel/gwt-bean-validators/gwt-bean-validators.git</developerConnection>
+		<url>https://github.com/diegogiacobbo/gwt-bean-validators/gwt-bean-validators.git</url>
+		<connection>scm:git:git@github.com/diegogiacobbo/gwt-bean-validators/gwt-bean-validators.git</connection>
+		<developerConnection>scm:git:git@github.com/diegogiacobbo/gwt-bean-validators/gwt-bean-validators.git</developerConnection>
 	</scm>
 
 	<prerequisites>
@@ -51,7 +51,7 @@
 	<developers>
 		<developer>
 			<name>Manfred Tremmel</name>
-			<id>ManfredTremmel</id>
+			<id>diegogiacobbo</id>
 			<email>Manfred.Tremmel@iiv.de</email>
 			<roles>
 				<role>Java Developer</role>

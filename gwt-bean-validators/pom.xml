@@ -66,16 +66,9 @@
 
 	<properties>
 		<htmlunit.version>2.19</htmlunit.version>
-		<websocket-client.version>9.2.13.v20150730</websocket-client.version>
 	</properties>
 
 	<dependencies>
-		<dependency>
-			<groupId>org.eclipse.jetty.websocket</groupId>
-			<artifactId>websocket-client</artifactId>
-			<version>${websocket-client.version}</version><!--$NO-MVN-MAN-VER$-->
-			<scope>provided</scope>
-		</dependency>
 		<dependency>
 			<groupId>javax.validation</groupId>
 			<artifactId>validation-api</artifactId>
